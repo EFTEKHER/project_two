@@ -1,0 +1,25 @@
+.video-container {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-left:55vh;
+    margin-right:50vh;
+    width: 60vw;
+    height: 45vh;
+  }
+  
+  .thumbnail {
+    width: 60vw;
+    height: 45vh;
+    border-radius: 10px;
+  }
+  
+  .video-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
